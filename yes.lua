@@ -41,7 +41,7 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
         ['Enabled'] = (true),
         ['Toggle'] = ('V'),
         ['Input'] = ('Keyboard'), --[[ Mouse, Keyboard ]]
-        ['Field'] = ('Cursor'), --[[ Cursor, Magnitude ]]
+        ['Field'] = ('Magnitude'), --[[ Cursor, Magnitude ]]
         ['Type'] = ('Toggle'),  --[[ Toggle, Hold ]]
         
         ['Prediction'] = { ['Enabled'] = (false), ['Ground'] = (0.125), ['Air'] = (0.125), ['Threshold'] = (25) }, --[[ Only Works With Magnitude ]]
